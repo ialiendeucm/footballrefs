@@ -1,0 +1,107 @@
+token;;sin valor de cara al estudio estadístico
+Seniority;Continuo;Años de experiencia
+Status;Binario;Estado
+Category;Ordinal;Categoría
+FirstDiv_Cat;Binario;Categoría
+SecondDiv_Cat;Binario;Categoría
+RFEF1_Cat;Binario;Categoría
+RFEF2_Cat;Binario;Categoría
+RFEF3_Cat;Binario;Categoría
+Preferent_Cat;Binario;Categoría
+Regional1_Cat;Binario;Categoría
+Regional2_Cat;Binario;Categoría
+Regional3_Cat;Binario;Categoría
+Junior_Cat;Binario;Categoría
+Male;Binario;Sexo
+YearBorn;Continuo;Años de nacimiento
+MadridBorn;Binario;Nacido en Madrid
+Spanish;Binario;Nacionalidad
+PostCode;Categórico;Código postal
+Role;Categórico;Rol
+MainRef_role;Binario;Rol
+AssiRef_role;Binario;Rol
+Office;Categórico;Sede
+MadridOf;Binario;Sede
+AlcalaOf;Binario;Sede
+AranjuezOf;Binario;Sede
+Weight;Continuo;Pero
+Height;Continuo;Altura
+StartYear;Continuo;Año de comienzo
+StartAge;Continuo;Edad al comienzo
+DropYear;Continuo;Año de la baja
+DropAge;Continuo;Edad en el momento de la baja
+talent;Binario;Perteneciente al grupo de talentos
+Motive_To_Start;Categórico;Motivo para comenzar
+MTSFeltinterestedbyrefereeing;Binario;Motivo para comenzar
+MTSMyfriendsfamilydid;Binario;Motivo para comenzar
+MTSToearnsomemoney;Binario;Motivo para comenzar
+MTSTopracticesomesport;Binario;Motivo para comenzar
+MTSTocontinueinfootball;Binario;Motivo para comenzar
+MTSAmotivatingchallenge;Binario;Motivo para comenzar
+MTSForbeingasocialactivity;Binario;Motivo para comenzar
+Risk_To_Leave;Categórico;Riesgo o causa de la baja
+RTLSufferingagression;Binario;Riesgo o causa de la baja
+RTLLackofphysicalcondition;Binario;Riesgo o causa de la baja
+RTLDissapointmentfornothaving;Binario;Riesgo o causa de la baja
+RTLPersonalIncompatibility;Binario;Riesgo o causa de la baja
+RTLProfessionalIncompatibility;Binario;Riesgo o causa de la baja
+RTLLossofinterest;Binario;Riesgo o causa de la baja
+RTLScarcefollowupbytheCommi;Binario;Riesgo o causa de la baja
+RTLRequirementsphysicalortes;Binario;Riesgo o causa de la baja
+RTLDissagreementwithCommittee;Binario;Riesgo o causa de la baja
+RTLInsufficientremuneration;Binario;Riesgo o causa de la baja
+RTLDemotion;Binario;Riesgo o causa de la baja
+RTLUnfairpromotions;Binario;Riesgo o causa de la baja
+Friend_or_Relative;Categórico;Con amigo cercano o familiar en el arbitraje
+BD;Binario;Con amigo cercano o familiar en el arbitraje
+Player_or_Coach;Binario;Previamente fue jugador o entrenador
+Player_or_CoachYes;Binario;Previamente fue jugador o entrenador
+Player_or_CoachYesbelowregion;Binario;Previamente fue jugador o entrenador
+Player_or_CoachNo;Binario;Previamente fue jugador o entrenador
+Vocation;Categórico;Vocación previa
+VocationVocationatstart;Binario;Vocación previa
+Motives_to_Continue;Categórico;Motivos para continuar en el arbitraje
+Motives_to_ContinuePromotionexp;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueExtraincome;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueRefereesocia;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueTreatmentby;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueExictementto;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueRelationship;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueMotivationfo;Binario;Motivos para continuar en el arbitraje
+Motives_to_ContinueParticipatei;Binario;Motivos para continuar en el arbitraje
+Ready_to_Promote;Categórico;Preparado para promocionar
+Ready_to_PromoteReadytopromote;Binario;Preparado para promocionar
+Ready_to_PromoteNotreadytopro;Binario;Preparado para promocionar
+Ready_to_PromoteNotsureifread;Binario;Preparado para promocionar
+Safety;Categórico;Ha recibido insultos o agresiones
+SafetyNo;Binario;Ha recibido insultos o agresiones
+SafetyRarely;Binario;Ha recibido insultos o agresiones
+SafetySometimes;Binario;Ha recibido insultos o agresiones
+SafetyManytimes;Binario;Ha recibido insultos o agresiones
+Avoidable_Drop;Categórico;La baja era evitable
+Avoidable_DropStillactive;Binario;La baja era evitable
+Avoidable_DropItcouldhavebeen;Binario;La baja era evitable
+Avoidable_DropPersonalreasons;Binario;La baja era evitable
+Avoidable_DropNotsure;Binario;La baja era evitable
+SupportProgram_part;Categórico;Ha tomada parte de programas de desarrollo
+SupportProgram_partYes;Binario;Ha tomada parte de programas de desarrollo
+SupportProgram_partNobutIwou;Binario;Ha tomada parte de programas de desarrollo
+SupportProgram_partNoandnoti;Binario;Ha tomada parte de programas de desarrollo
+SupportProgram_partPrefernotan;Binario;Ha tomada parte de programas de desarrollo
+Dependants;Categórico;Con dependientes o responsabilidades familiares
+DependantsYes;Binario;Con dependientes o responsabilidades familiares
+Education_Level;Ordinal;Nivel académico
+Education_LevelPrefernotanswer;Binario;Nivel académico
+Education_LevelPhDormaster;Binario;Nivel académico
+Education_LevelGrade;Binario;Nivel académico
+Education_LevelSecondaryeducati;Binario;Nivel académico
+Education_LevelComplulsorysecon;Binario;Nivel académico
+Education_LevelBasiceducation;Binario;Nivel académico
+Education_LevelNobasiceducatio;Binario;Nivel académico
+Knowsrefsintheirarea;Ordinal;Conoce árbitros en su zona
+Spendstimewithrefsfromtheir;Ordinal;Pasa tiempo con esos árbitros
+Friendofrefsintheirarea;Ordinal;Tiene amigos entre esos árbitros
+Trainswithrefsoftheirarea;Ordinal;Entrena con esos árbitros
+Closetorefsintheirarea;Ordinal;Se siente cercano a esos árbitros
+p2pTotal;Continuo;Sumatorio de los cinco anteriores ítems
+Job;Texto;Profesión
