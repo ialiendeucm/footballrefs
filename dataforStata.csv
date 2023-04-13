@@ -1,0 +1,93 @@
+Variable;Type;Notes
+Seniority;Numeric;Time variable
+Status;Binary;Event
+Category;Ordered;Category from 1 to 10
+FirstDiv_Cat;Binary;
+SecondDiv_Cat;Binary;
+RFEF1_Cat;Binary;
+RFEF2_Cat;Binary;
+RFEF3_Cat;Binary;
+Preferent_Cat;Binary;
+Regional1_Cat;Binary;
+Regional2_Cat;Binary;
+Regional3_Cat;Binary;
+Junior_Cat;Binary;
+Male;Binary;Gender
+YearBorn;Numeric;
+MadridBorn;Binary;
+Spanish;Binary;
+Office;Categorical;Office (3 possible)
+MadridOf;Binary;
+AlcalaOf;Binary;
+AranjuezOf;Binary;
+StartYear;Numeric;
+StartAge;Numeric;
+DropYear;Numeric;
+DropAge;Numeric;
+talent;Binary;
+Motive_To_Start;Categorical;Motivations at start
+MTSFeltinterestedbyrefereeing;Binary;
+MTSMyfriendsfamilydid;Binary;
+MTSToearnsomemoney;Binary;
+MTSTopracticesomesport;Binary;
+MTSTocontinueinfootball;Binary;
+MTSAmotivatingchallenge;Binary;
+MTSForbeingasocialactivity;Binary;
+Risk_To_Leave;Categorical;Risks to leave
+RTLSufferingagression;Binary;
+RTLLackofphysicalcondition;Binary;
+RTLDissapointmentfornothaving;Binary;
+RTLPersonalIncompatibility;Binary;
+RTLProfessionalIncompatibility;Binary;
+RTLLossofinterest;Binary;
+RTLScarcefollowupbytheCommi;Binary;
+RTLRequirementsphysicalortes;Binary;
+RTLDissagreementwithCommittee;Binary;
+RTLInsufficientremuneration;Binary;
+RTLDemotion;Binary;
+RTLUnfairpromotions;Binary;
+Friend_or_Relative;Binary;
+Player_or_Coach;Categorical;Previous experience
+Player_or_CoachYes;Binary;
+Player_or_CoachYesbelowregional;Binary;
+Player_or_CoachNo;Binary;
+Vocation;Categorical;Vocation at start
+VocationVocationatstart;Binary;
+Motives_to_Continue;Categorical;Motivations to continue
+Motives_to_ContinuePromotionexp;Binary;
+Motives_to_ContinueExtraincome;Binary;
+Motives_to_ContinueRefereesocia;Binary;
+Motives_to_ContinueTreatmentby;Binary;
+Motives_to_ContinueExictementto;Binary;
+Motives_to_ContinueRelationship;Binary;
+Motives_to_ContinueMotivationfo;Binary;
+Motives_to_ContinueParticipatei;Binary;
+Ready_to_Promote;Categorical;Consider to be ready for promotion
+Ready_to_PromoteReadytopromote;Binary;
+Ready_to_PromoteNotreadytopro;Binary;
+Ready_to_PromoteNotsureifread;Binary;
+Safety (Suffered abuse);Categorical;Suffered abuse or threats
+SafetyNo;Binary;
+SafetyRarely;Binary;
+SafetySometimes;Binary;
+SafetyManytimes;Binary;
+Avoidable_Drop;Categorical;Consider their leave to have been avoidable
+Avoidable_DropStillactive;Binary;
+Avoidable_DropItcouldhavebeen;Binary;
+Avoidable_DropPersonalreasons;Binary;
+Avoidable_DropNotsure;Binary;
+SupportProgram_part;Categorical;Participant in support programs
+SupportProgram_partYes;Binary;
+SupportProgram_partNobutIwou;Binary;
+SupportProgram_partNoandnoti;Binary;
+SupportProgram_partPrefernotan;Binary;
+Dependants;Categorical;Family responsibilities
+DependantsYes;Binary;
+Education_Level;Ordered;Academic level from no studies to PhD
+Education_LevelPrefernotanswer;Binary;
+Education_LevelPhDormaster;Binary;
+Education_LevelGrade;Binary;
+Education_LevelSecondaryeducati;Binary;
+Education_LevelComplulsorysecon;Binary;
+Education_LevelBasiceducation;Binary;
+Education_LevelNobasiceducatio;Binary;
